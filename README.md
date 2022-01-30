@@ -2,8 +2,8 @@
 CS 3rd Semester Final Assignments -- Sukkur IBA University
 
 Group members:
-Asghar Ali Shah
-Abdul Basit Sher
+Asghar Ali Shah,
+Abdul Basit Sher,
 Yahya Malik
 
 Assignment 1: 🗒 <b>Modpad</b> -- Modified Notepad App - implemented in PyQt5
